@@ -1,5 +1,3 @@
-require 'pry'
-
 class Circle
 
   def initialize(radius)
@@ -19,5 +17,3 @@ class Circle
   end
 
 end
-
-binding.pry
